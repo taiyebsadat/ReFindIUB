@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=https://github.com/taiyebsadat/ReFind-IUB/blob/main/requirements.txt
